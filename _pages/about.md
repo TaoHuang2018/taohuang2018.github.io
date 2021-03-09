@@ -13,12 +13,12 @@ I am doing my internship at Noah’s Ark Lab, Huawei Technologies.
 
 # Research Interests
 - Computer Vision
-  - Low-level Vision
+  - Low-Level Vision
   - Self-Supervised Learning
 - Machine Learning
   - Ensemble Methods (Random Forest, Boosting, etc)
   - Density Estimation, Clustering, Anomaly Detection
-  - Large-scale Regression
+  - Large-Scale Regression
 
 # Education
 - B.S. in Statistics, Renmin University of China, 2018
