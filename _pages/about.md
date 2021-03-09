@@ -13,9 +13,15 @@ I am currently a PhD student in Statistics at the Institute of Statistics and Bi
 
 # Research Interests
 
-- Todo
+- Computer Vision
+  - Low-level Vision
+  - Self-Supervised Learning
+- Machine Learning
+  - Ensemble Methods(Random Forest, Boosting, etc)
+  - Density Estimation, Clustering, Anomaly Detection
+  - Large-scale Regression
 
 # Education
-
-- Todo
+- B.S. in Statistics, Renmin University of China, 2018
+- Ph.D in Statistics, Renmin University of China, 2023 (expected)
 
