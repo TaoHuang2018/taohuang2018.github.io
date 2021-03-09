@@ -9,6 +9,6 @@ redirect_from:
 
  {% include base_path %}
 
-## Education
+# Education
 * B.S. in Statistics, Renmin University of China, 2018
 * Ph.D in Statistics, Renmin University of China, 2023 (expected)
