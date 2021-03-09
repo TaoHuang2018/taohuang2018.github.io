@@ -14,3 +14,5 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
+
+- Tao Huang, Songjiang Li, Xu Jia, Huchuan Lu, Jianzhuang Liu. **Neighbor2Neighbor: Self-Supervised Denoising from Single Noisy Images**, accepted by CVPR 2021. \[[arxiv](https://arxiv.org/pdf/2101.02824.pdf)\]
