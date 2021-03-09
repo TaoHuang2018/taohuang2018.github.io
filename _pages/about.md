@@ -25,4 +25,4 @@ I am doing my internship at Noah’s Ark Lab, Huawei Technologies.
 - Ph.D in Statistics, Renmin University of China, 2023 (expected)
 
 # Publications
-- Tao Huang, Songjiang Li, Xu Jia, Huchuan Lu, Jianzhuang Liu. **Neighbor2Neighbor: Self-Supervised Denoising from Single Noisy Images**, accepted by CVPR 2021. \[[arxiv](https://arxiv.org/pdf/2101.02824.pdf)\]
+- Tao Huang, Songjiang Li, Xu Jia, Huchuan Lu, Jianzhuang Liu. **Neighbor2Neighbor: Self-Supervised Denoising from Single Noisy Images**, accepted by CVPR 2021. \[[Arxiv](https://arxiv.org/pdf/2101.02824.pdf)\] \[[Github](https://github.com/TaoHuang2018/Neighbor2Neighbor)\]
